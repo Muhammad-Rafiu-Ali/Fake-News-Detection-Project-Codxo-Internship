@@ -1,5 +1,5 @@
 # Fake-News-Detection-Project-Codxo-Internship
-During my data science internship at Codex, I successfully completed a project focused on Fake News Detection using machine learning techniques. The project involved analyzing two datasets downloaded from Kaggle: `fake.csv` and `true.csv`. 
+During my data science internship at Codxo, I successfully completed a project focused on Fake News Detection using machine learning techniques. The project involved analyzing two datasets downloaded from Kaggle: `fake.csv` and `true.csv`. 
 
 **Dataset Description and Exploration:**
 The `fake.csv` and `true.csv` files contained news articles labeled as either fake or true, encompassing features such as `title`, `text`, `subject`, and `date`. I conducted thorough data exploration, examining the structure and content of each dataset. This included displaying initial rows, summarizing data types and statistics, and ensuring data cleanliness by checking for missing values (none were found).
